@@ -6,15 +6,14 @@ body{
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
-    height: 100vh;
+    height: 90vh;
 }
 video{
     width: 100%;
 }
 .soon-message{
-    font-size: 1.5rem;
     display: flex;
     justify-content: center;
     text-align: center;
-    width: 100%;
+    padding: 20vh 0 20vh 0;
 }
