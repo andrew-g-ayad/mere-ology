@@ -1,19 +1,21 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
+  background-color: black;
 }
-body{
-    display: flex;
-    justify-content: space-evenly;
-    flex-direction: column;
-    height: 90vh;
+body {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  height: 90vh;
 }
-video{
-    width: 100%;
+video {
+  width: 100%;
 }
-.soon-message{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    padding: 20vh 0 20vh 0;
+.soon-message {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 20vh 0 20vh 0;
 }
